@@ -1,0 +1,612 @@
+{
+  "requestCode": -1,
+  "requestCodeName": null,
+  "type": "info",
+  "code": 0,
+  "codeName": null,
+  "message": "查询成功!",
+  "data": [
+    {
+      "id": 1,
+      "type": 0,
+      "name": "推荐",
+      "seqNo": 1,
+      "banners": [
+        {
+          "id": 28,
+          "discatId": 1,
+          "imageUuid": "b14fa150-b794-4809-aa1b-dfc6f42082d0",
+          "imageUsage": "image.logo",
+          "imagePath": "2018/10/08/45b7022f-f7a8-4968-9d31-b3ec4141b67f.jpg",
+          "seqNo": 12,
+          "url": "#article?id=545",
+          "name": "冥王星外的新天体暗示可能存在神秘的X行星",
+          "meno": null,
+          "fileBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/08/45b7022f-f7a8-4968-9d31-b3ec4141b67f.jpg",
+          "disCatId": 1,
+          "createTime": "2018-05-16 15:53:14",
+          "ts": "2018-05-16 15:53:14"
+        },
+        {
+          "id": 23,
+          "discatId": 1,
+          "imageUuid": "11c7f6d0-1bc8-4700-9d76-8cd3d05ce30a",
+          "imageUsage": "image.logo",
+          "imagePath": "2018/10/09/d49684cc-0cb5-4820-bf3c-215658d28a2c.jpg",
+          "seqNo": 11,
+          "url": "#article?id=548",
+          "name": "纯白冰境：冰岛雷克雅未克周末两日游",
+          "meno": null,
+          "fileBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/09/d49684cc-0cb5-4820-bf3c-215658d28a2c.jpg",
+          "disCatId": 1,
+          "createTime": "2018-03-20 16:54:00",
+          "ts": "2018-03-20 16:54:00"
+        },
+        {
+          "id": 22,
+          "discatId": 1,
+          "imageUuid": "6d122281-4289-430a-b13d-6287ca56bea4",
+          "imageUsage": "image.logo",
+          "imagePath": "2018/06/28/9f0f88ea-4a7b-400c-b94c-7663ca48dd11.jpg",
+          "seqNo": 10,
+          "url": "#article?id=332",
+          "name": "重要通知，请务必查看！",
+          "meno": null,
+          "fileBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/06/28/9f0f88ea-4a7b-400c-b94c-7663ca48dd11.jpg",
+          "disCatId": 1,
+          "createTime": "2018-02-11 16:00:22",
+          "ts": "2018-02-11 16:00:22"
+        }
+      ],
+      "discatArticles": {
+        "pagination": {
+          "totalCount": 374,
+          "pageSize": 10,
+          "pageNumber": 1,
+          "pageIndexRange": {
+            "from": 0,
+            "to": 9
+          },
+          "pageIndexFrom": 0
+        },
+        "rows": [
+          {
+            "id": 600,
+            "discatId": 1,
+            "articleId": 575,
+            "seqNo": 572,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/23/c3b03385-9a7c-42ec-bffd-355330cf6153.jpg",
+            "articleTitle": "隐秘新西兰：地球上最后一块净土",
+            "articleAtlas": null,
+            "pubDay": "2018-10-23"
+          },
+          {
+            "id": 599,
+            "discatId": 1,
+            "articleId": 574,
+            "seqNo": 571,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/23/b89bd196-3f11-433f-8960-970305fc5839.jpg",
+            "articleTitle": "非洲野犬食谱再更新：狒狒沦为捕猎目标",
+            "articleAtlas": null,
+            "pubDay": "2018-10-23"
+          },
+          {
+            "id": 598,
+            "discatId": 1,
+            "articleId": 573,
+            "seqNo": 570,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/23/83ce8c73-594b-4dee-9ff3-d16e91daf7d7.jpg",
+            "articleTitle": "圣经博物馆的死海古卷里有5份确认是伪造的！",
+            "articleAtlas": null,
+            "pubDay": "2018-10-23"
+          },
+          {
+            "id": 597,
+            "discatId": 1,
+            "articleId": 572,
+            "seqNo": 569,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/22/154e745f-3cc0-43c9-b0b7-24dfd8aa62c2.jpg",
+            "articleTitle": "精彩图集：全球现役火箭发射场地",
+            "articleAtlas": null,
+            "pubDay": "2018-10-22"
+          },
+          {
+            "id": 596,
+            "discatId": 1,
+            "articleId": 571,
+            "seqNo": 568,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/22/165003c5-45bb-4a57-8ef2-690863ceaaa6.jpg",
+            "articleTitle": "拨开那串“葡萄”，揭晓海蛞蝓的伪装",
+            "articleAtlas": null,
+            "pubDay": "2018-10-22"
+          },
+          {
+            "id": 595,
+            "discatId": 1,
+            "articleId": 570,
+            "seqNo": 567,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/19/b9e55c5f-8d59-481f-abd5-3f17e275f892.jpg",
+            "articleTitle": "借助人类的“三叉戟”，探索水下神秘世界",
+            "articleAtlas": null,
+            "pubDay": "2018-10-19"
+          },
+          {
+            "id": 593,
+            "discatId": 1,
+            "articleId": 569,
+            "seqNo": 566,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/19/aa0368a1-949b-4b3d-be32-ab8324a991fe.jpg",
+            "articleTitle": "塑料无处不在：全球90%的食盐都含有塑料微粒！",
+            "articleAtlas": null,
+            "pubDay": "2018-10-19"
+          },
+          {
+            "id": 594,
+            "discatId": 1,
+            "articleId": 568,
+            "seqNo": 565,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/19/33bc861b-3f83-4323-a154-f0767d9df876.jpg",
+            "articleTitle": "罕见高清美图大放送：惊艳四方的乌兹别克斯坦地铁",
+            "articleAtlas": null,
+            "pubDay": "2018-10-19"
+          },
+          {
+            "id": 592,
+            "discatId": 1,
+            "articleId": 567,
+            "seqNo": 564,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/19/458e19d7-054d-4e2e-a12f-44ddfd65b753.jpg",
+            "articleTitle": "一个太空迷的深情告白：斯普特尼克一号如何改变了我的人生",
+            "articleAtlas": null,
+            "pubDay": "2018-10-19"
+          },
+          {
+            "id": 589,
+            "discatId": 1,
+            "articleId": 564,
+            "seqNo": 563,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/17/752f6f3c-df6a-4052-ac18-1fcc98e3fa9b.jpg",
+            "articleTitle": "忙里偷闲，玩转十大最繁忙的机场",
+            "articleAtlas": null,
+            "pubDay": "2018-10-17"
+          }
+        ]
+      },
+      "discatAtlas": null,
+      "state": false,
+      "articleId": null,
+      "createTime": "2018-01-16 14:44:06",
+      "ts": "2018-01-21 17:47:40"
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "name": "摄影",
+      "seqNo": 2,
+      "banners": [],
+      "discatAtlas": null,
+      "discatArticles": {
+        "pagination": {
+          "totalCount": 99,
+          "pageSize": 10,
+          "pageNumber": 1,
+          "pageIndexRange": {
+            "from": 0,
+            "to": 9
+          },
+          "pageIndexFrom": 0
+        },
+        "rows": [
+          {
+            "id": 138,
+            "discatId": 2,
+            "atlasId": 173,
+            "seqNo": 127,
+            "fileBrowseUrl": "http://static.ngchina.cn/repo/image/misc/2018/10/19/d0c1f76c-a984-4016-bc75-b4c278ff1cc9.jpg",
+            "atlasName": "美国国家公园：十大观赏日出日落的最佳圣地",
+            "imgWidth": 600,
+            "imgHeight": 400,
+            "content": ""
+          },
+          {
+            "id": 137,
+            "discatId": 2,
+            "atlasId": 172,
+            "seqNo": 126,
+            "fileBrowseUrl": "http://static.ngchina.cn/repo/image/misc/2018/10/19/fbef3281-b655-4ea4-9aa2-d45b8496b9dd.jpg",
+            "atlasName": "影像记录：用古老的摄影方法展示真实的美洲原住民",
+            "imgWidth": 600,
+            "imgHeight": 400,
+            "content": ""
+          },
+          {
+            "id": 136,
+            "discatId": 2,
+            "atlasId": 171,
+            "seqNo": 125,
+            "fileBrowseUrl": "http://static.ngchina.cn/repo/image/misc/2018/10/17/33a84782-8dd1-44b2-b4a7-a0cb955e53ed.jpg",
+            "atlasName": "温馨家庭照，感受全世界的浓浓亲情",
+            "imgWidth": 600,
+            "imgHeight": 400,
+            "content": ""
+          },
+          {
+            "id": 135,
+            "discatId": 2,
+            "atlasId": 170,
+            "seqNo": 124,
+            "fileBrowseUrl": "http://static.ngchina.cn/repo/image/misc/2018/10/16/e6495e91-08d7-41ff-8144-c082a2ee30fd.jpg",
+            "atlasName": "飓风“迈克尔”：史上罕见的破坏威力",
+            "imgWidth": 600,
+            "imgHeight": 400,
+            "content": ""
+          },
+          {
+            "id": 134,
+            "discatId": 2,
+            "atlasId": 169,
+            "seqNo": 123,
+            "fileBrowseUrl": "http://static.ngchina.cn/repo/image/misc/2018/10/12/ef274e7f-22bb-4922-8180-dce3e48de1eb.jpg",
+            "atlasName": "振奋人心！12种绝处逢生的珍奇动物",
+            "imgWidth": 600,
+            "imgHeight": 400,
+            "content": ""
+          },
+          {
+            "id": 133,
+            "discatId": 2,
+            "atlasId": 168,
+            "seqNo": 122,
+            "fileBrowseUrl": "http://static.ngchina.cn/repo/image/misc/2018/10/10/6e80ac01-a74d-4eb0-ae42-f37c472d7c68.jpg",
+            "atlasName": "盘点那些年曾经改过名字的国家和地区",
+            "imgWidth": 600,
+            "imgHeight": 400,
+            "content": ""
+          },
+          {
+            "id": 132,
+            "discatId": 2,
+            "atlasId": 167,
+            "seqNo": 121,
+            "fileBrowseUrl": "http://static.ngchina.cn/repo/image/misc/2018/10/10/4cbe6a41-3582-4def-a9a7-fa473aae3203.jpg",
+            "atlasName": "飞蛾扑“灯”背后的秘密",
+            "imgWidth": 600,
+            "imgHeight": 400,
+            "content": ""
+          },
+          {
+            "id": 131,
+            "discatId": 2,
+            "atlasId": 166,
+            "seqNo": 120,
+            "fileBrowseUrl": "http://static.ngchina.cn/repo/image/misc/2018/10/10/cb73fb8a-9cce-4b1b-a3ae-d51846a9a98b.jpg",
+            "atlasName": "影像记录：古巴老式火车上的人们",
+            "imgWidth": 600,
+            "imgHeight": 400,
+            "content": ""
+          },
+          {
+            "id": 130,
+            "discatId": 2,
+            "atlasId": 165,
+            "seqNo": 119,
+            "fileBrowseUrl": "http://static.ngchina.cn/repo/image/misc/2018/10/10/d3ba42de-3876-48e3-8db3-bcfa453c1355.jpg",
+            "atlasName": "动物眼中的世界是什么样子？",
+            "imgWidth": 600,
+            "imgHeight": 400,
+            "content": ""
+          },
+          {
+            "id": 129,
+            "discatId": 2,
+            "atlasId": 164,
+            "seqNo": 118,
+            "fileBrowseUrl": "http://static.ngchina.cn/repo/image/misc/2018/09/30/209e3684-85c8-47ff-a969-e7eb9c68c0e3.jpg",
+            "atlasName": "全球矿物奇葩秀",
+            "imgWidth": 600,
+            "imgHeight": 400,
+            "content": ""
+          }
+        ]
+      },
+      "state": false,
+      "articleId": null,
+      "createTime": "2018-01-16 14:44:06",
+      "ts": "2018-01-21 17:47:48"
+    },
+    {
+      "id": 3,
+      "type": 0,
+      "name": "视频",
+      "seqNo": 3,
+      "banners": [
+        {
+          "id": 18,
+          "discatId": 3,
+          "imageUuid": "ea37a15c-3ea2-4aa1-b190-61bd6a0e8a78",
+          "imageUsage": "image.logo",
+          "imagePath": "2018/08/17/f34b57e9-aa74-43b3-b5cb-c7f6ef025297.jpg",
+          "seqNo": 6,
+          "url": "#article?id=456",
+          "name": "七夕特辑：今夜燃烧我的卡路里！",
+          "meno": null,
+          "fileBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/08/17/f34b57e9-aa74-43b3-b5cb-c7f6ef025297.jpg",
+          "disCatId": 3,
+          "createTime": "2018-02-05 10:48:25",
+          "ts": "2018-02-05 10:48:25"
+        },
+        {
+          "id": 17,
+          "discatId": 3,
+          "imageUuid": "8b2132a2-cba5-4a81-9537-193636cf09a7",
+          "imageUsage": "image.logo",
+          "imagePath": "2018/08/04/fa0d7817-4e25-4c0e-a419-f9949c671f67.png",
+          "seqNo": 5,
+          "url": "#article?id=426",
+          "name": "探秘：承受两大飓风，而存活下来的蜥蜴，有何秘密？",
+          "meno": null,
+          "fileBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/08/04/fa0d7817-4e25-4c0e-a419-f9949c671f67.png",
+          "disCatId": 3,
+          "createTime": "2018-02-05 10:48:05",
+          "ts": "2018-02-05 10:48:05"
+        },
+        {
+          "id": 25,
+          "discatId": 3,
+          "imageUuid": "ff07e69f-2aa8-45ac-b659-87d1ac9be81c",
+          "imageUsage": "image.logo",
+          "imagePath": "2018/07/20/7958dace-cc5b-4f6f-aaa9-2a6eb7451a7e.jpg",
+          "seqNo": 3,
+          "url": "#article?id=391",
+          "name": "探秘：世界首枚蛇琥珀，由中国人发现！",
+          "meno": null,
+          "fileBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/07/20/7958dace-cc5b-4f6f-aaa9-2a6eb7451a7e.jpg",
+          "disCatId": 3,
+          "createTime": "2018-03-20 17:23:32",
+          "ts": "2018-03-20 17:23:32"
+        }
+      ],
+      "discatArticles": {
+        "pagination": {
+          "totalCount": 177,
+          "pageSize": 10,
+          "pageNumber": 1,
+          "pageIndexRange": {
+            "from": 0,
+            "to": 9
+          },
+          "pageIndexFrom": 0
+        },
+        "rows": [
+          {
+            "id": 580,
+            "discatId": 3,
+            "articleId": 555,
+            "seqNo": 552,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/11/a741290e-edaf-4d4e-910b-e5e4abddde15.png",
+            "articleTitle": "探秘：“千足”比目鱼  走挺溜~",
+            "articleAtlas": null,
+            "pubDay": "2018-10-11"
+          },
+          {
+            "id": 577,
+            "discatId": 3,
+            "articleId": 552,
+            "seqNo": 550,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/10/96dfc575-327a-4420-94a2-6b922257f881.png",
+            "articleTitle": "探秘：能吓哭人的蘑菇 敢吃吗？",
+            "articleAtlas": null,
+            "pubDay": "2018-10-10"
+          },
+          {
+            "id": 576,
+            "discatId": 3,
+            "articleId": 551,
+            "seqNo": 549,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/10/c54df501-a80c-4002-9027-3dd2e57d55c5.png",
+            "articleTitle": "探秘：两条鱼的“最后一吻”  如时间停住",
+            "articleAtlas": null,
+            "pubDay": "2018-10-10"
+          },
+          {
+            "id": 572,
+            "discatId": 3,
+            "articleId": 547,
+            "seqNo": 544,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/10/08/eab4bb60-31f0-48a0-b616-de84cc499c6e.png",
+            "articleTitle": "探秘：极乐鸟新物种  这求爱舞姿……",
+            "articleAtlas": null,
+            "pubDay": "2018-10-08"
+          },
+          {
+            "id": 566,
+            "discatId": 3,
+            "articleId": 541,
+            "seqNo": 538,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/09/30/34821515-175e-44e7-92e0-534640c6ab7b.JPG",
+            "articleTitle": "探秘：奔跑吧 “鲉鱼”！",
+            "articleAtlas": null,
+            "pubDay": "2018-09-30"
+          },
+          {
+            "id": 565,
+            "discatId": 3,
+            "articleId": 540,
+            "seqNo": 537,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/09/29/73a3a060-dbeb-4392-ae22-9a9eaf878b06.JPG",
+            "articleTitle": "探秘：假期来一趟阳光海滩之旅，猪猪们已经嗨起来了！",
+            "articleAtlas": null,
+            "pubDay": "2018-09-29"
+          },
+          {
+            "id": 564,
+            "discatId": 3,
+            "articleId": 539,
+            "seqNo": 536,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/09/28/0c7dda01-1fed-4a5c-82cf-e071eb0547bf.jpg",
+            "articleTitle": "探秘：海龟开“荤”，这儿画面不忍直视……",
+            "articleAtlas": null,
+            "pubDay": "2018-09-28"
+          },
+          {
+            "id": 561,
+            "discatId": 3,
+            "articleId": 536,
+            "seqNo": 533,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/09/27/410a4cb6-02a3-4916-9c4a-d510abf69899.JPG",
+            "articleTitle": "探秘：五只蝠鲼练起了“花样游泳”，准备奥运会？",
+            "articleAtlas": null,
+            "pubDay": "2018-09-27"
+          },
+          {
+            "id": 560,
+            "discatId": 3,
+            "articleId": 535,
+            "seqNo": 532,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/09/26/405ae2c5-bfce-49d5-84cb-66f01217bc0d.JPG",
+            "articleTitle": "探秘：孤儿树懒在摇摇椅中慢慢“变老”！",
+            "articleAtlas": null,
+            "pubDay": "2018-09-26"
+          },
+          {
+            "id": 557,
+            "discatId": 3,
+            "articleId": 532,
+            "seqNo": 529,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/09/25/f6ca5eb6-5862-4d32-8e38-c5f96ea583dd.jpg",
+            "articleTitle": "探秘：深海巨嘴怪 大如口袋，身如鳗鱼！",
+            "articleAtlas": null,
+            "pubDay": "2018-09-25"
+          }
+        ]
+      },
+      "discatAtlas": null,
+      "state": false,
+      "articleId": null,
+      "createTime": "2018-01-21 17:47:57",
+      "ts": "2018-02-02 18:13:18"
+    },
+    {
+      "id": 4,
+      "type": 0,
+      "name": "活动",
+      "seqNo": 4,
+      "banners": [
+        {
+          "id": 21,
+          "discatId": 4,
+          "imageUuid": "6cb3ec96-85de-477d-9bac-60f19a191811",
+          "imageUsage": "image.logo",
+          "imagePath": "2018/05/17/87e5cc7e-cb2e-4398-83de-9602667db9b9.jpg",
+          "seqNo": 9,
+          "url": "http://syds.ngchina.cn/",
+          "name": null,
+          "meno": null,
+          "fileBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/05/17/87e5cc7e-cb2e-4398-83de-9602667db9b9.jpg",
+          "disCatId": 4,
+          "createTime": "2018-02-11 10:42:05",
+          "ts": "2018-02-11 10:42:05"
+        },
+        {
+          "id": 26,
+          "discatId": 4,
+          "imageUuid": "d6c02009-2dc3-4df0-a2ac-7e7fd693094a",
+          "imageUsage": "image.logo",
+          "imagePath": "2018/04/27/d32fb55c-7f8a-45dc-8bc1-344c89b1dcf9.jpg",
+          "seqNo": 8,
+          "url": "http://qmsd.ngchina.cn/",
+          "name": null,
+          "meno": null,
+          "fileBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/04/27/d32fb55c-7f8a-45dc-8bc1-344c89b1dcf9.jpg",
+          "disCatId": 4,
+          "createTime": "2018-04-27 15:27:15",
+          "ts": "2018-04-27 15:27:15"
+        },
+        {
+          "id": 27,
+          "discatId": 4,
+          "imageUuid": "d98f36d5-534e-4906-a5b9-c1b796c071c6",
+          "imageUsage": "image.logo",
+          "imagePath": "2018/04/27/cbc991c1-72e3-461c-a010-f9a986157f1c.jpg",
+          "seqNo": 7,
+          "url": "http://m.ngchina.com.cn/wetcode",
+          "name": null,
+          "meno": null,
+          "fileBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/04/27/cbc991c1-72e3-461c-a010-f9a986157f1c.jpg",
+          "disCatId": 4,
+          "createTime": "2018-04-27 15:37:14",
+          "ts": "2018-04-27 15:37:14"
+        }
+      ],
+      "discatArticles": {
+        "pagination": {
+          "totalCount": 5,
+          "pageSize": 10,
+          "pageNumber": 1,
+          "pageIndexRange": {
+            "from": 0,
+            "to": 4
+          },
+          "pageIndexFrom": 0
+        },
+        "rows": [
+          {
+            "id": 257,
+            "discatId": 4,
+            "articleId": 235,
+            "seqNo": 232,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/05/17/1d560e19-987b-4932-9724-596567adde42.jpg",
+            "articleTitle": "2018美国《国家地理》全球摄影大赛中国区正式启动",
+            "articleAtlas": null,
+            "pubDay": "2018-05-17"
+          },
+          {
+            "id": 216,
+            "discatId": 4,
+            "articleId": 195,
+            "seqNo": 194,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/04/27/c841f71e-630b-44ad-b5c0-78057c3ae510.jpg",
+            "articleTitle": "征集启动 | 水密码×美国国家地理中文网海洋摄影年度大赛",
+            "articleAtlas": null,
+            "pubDay": "2018-04-27"
+          },
+          {
+            "id": 210,
+            "discatId": 4,
+            "articleId": 193,
+            "seqNo": 192,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/04/27/0653e8a0-6e73-4d77-b62a-c575f6a08f42.jpg",
+            "articleTitle": "全棉时代×国家地理中文网“棉·自然·人”年度摄影大赛正式启动",
+            "articleAtlas": null,
+            "pubDay": "2018-04-27"
+          },
+          {
+            "id": 65,
+            "discatId": 4,
+            "articleId": 42,
+            "seqNo": 54,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/02/07/f93d5b7c-fa04-4c40-a202-18b73ee3c922.jpg",
+            "articleTitle": "从贡嘎山到泸沽湖，一汽丰田世家荣耀重走洛克之路完美收官！",
+            "articleAtlas": null,
+            "pubDay": "2018-02-07"
+          },
+          {
+            "id": 58,
+            "discatId": 4,
+            "articleId": 43,
+            "seqNo": 47,
+            "logoBrowseUrl": "http://static.ngchina.cn/repo/image/logo/2018/02/07/5e8b7ae0-8b07-4725-9dc5-f486bfdf1947.jpg",
+            "articleTitle": "江枫渔火间，一场与东极岛的后会无期",
+            "articleAtlas": null,
+            "pubDay": "2018-02-07"
+          }
+        ]
+      },
+      "discatAtlas": null,
+      "state": false,
+      "articleId": null,
+      "createTime": "2018-01-21 17:48:04",
+      "ts": "2018-02-02 18:13:23"
+    }
+  ]
+}
