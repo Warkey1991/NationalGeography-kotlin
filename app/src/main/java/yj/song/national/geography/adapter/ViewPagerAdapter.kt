@@ -25,12 +25,12 @@ class ViewPagerAdapter(fm: FragmentManager, pageTitles: List<PageTitle>) : Fragm
     }
 
     override fun getItem(position: Int): Fragment {
-        when (titles!![position].seqNo) {
-            1 -> return RecommendFragment.getInstance(1)
-            2 -> return PhotographyFragment.getInstance()
-            3 -> return VideoFragment.getInstance()
-            4 -> return DoingsFragment.getInstance()
-            else -> return RecommendFragment.getInstance(1)
+        return when (titles!![position].seqNo) {
+            1 -> RecommendFragment.getInstance(1)
+            2 -> PhotographyFragment.getInstance()
+            3 -> VideoFragment.getInstance()
+            4 -> DoingsFragment.getInstance()
+            else -> RecommendFragment.getInstance(1)
         }
     }
 

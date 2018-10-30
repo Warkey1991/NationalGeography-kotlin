@@ -2,7 +2,7 @@ package yj.song.national.geography.main.fragment
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
-import android.support.v7.widget.LinearLayoutManager
+import android.support.v7.widget.GridLayoutManager
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
@@ -33,9 +33,18 @@ class RecommendFragment : BaseFragment() {
         val seqNo = arguments?.getInt("seqNo") ?: 1
         recommendModel = LoadDataManager.obtainDataFromSeqNo("article.json", seqNo)
         recommendAdapter = RecommendAdapter(context!!)
-        recommendRecyclerView?.layoutManager = LinearLayoutManager(context)
+        val gridLayoutManager = GridLayoutManager(context, 2)
         recommendRecyclerView?.adapter = recommendAdapter
         recommendAdapter?.recommend = recommendModel
+        gridLayoutManager.spanSizeLookup = (object : GridLayoutManager.SpanSizeLookup() {
+            override fun getSpanSize(position: Int): Int {
+                return when (position) {
+                    0 -> 2
+                    else -> 1
+                }
+            }
+        })
+        recommendRecyclerView?.layoutManager = gridLayoutManager
     }
 
 

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NationalGeography</string>
+    <string name="article_toolbar">文章详情</string>
 </resources>
