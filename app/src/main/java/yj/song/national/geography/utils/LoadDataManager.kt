@@ -21,4 +21,9 @@ object LoadDataManager {
         return homeDataResult.data
     }
 
+    fun obtainDataFromSeqNo(assetsFileName: String, seqNo: Int): HomePageData {
+        val homeDatas = convert2HomeData(assetsFileName)
+        return homeDatas.single { it.seqNo == seqNo }
+    }
+
 }
