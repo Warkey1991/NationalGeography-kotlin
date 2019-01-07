@@ -13,7 +13,11 @@ object DelegatesExt {
     fun <T> preference(context: Context, name: String,
                        default: T) = Preference(context, name, default)
 }
-
+/**
+ * Kotlin库提供了几个接口，我们自己的委托必须要实
+ * 现： ReadOnlyProperty 和 ReadWriteProperty 。具体取决于我们被委托的对
+ * 象是 val 还是 var 。
+ * 我们要做的第一件事就是创建一个类然后继承 ReadWriteProperty */
 class NotNullSingleValueVar<T> {
 
     private var value: T? = null
